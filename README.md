@@ -15,13 +15,13 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone [<repository-url>](https://github.com/semicolon702/kafka-setup.git)
+    git clone https://github.com/semicolon702/kafka-setup.git
     ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd <repository-directory>
+    cd repository-directory
     ```
 
 3. Start the Kafka environment using Docker Compose:
